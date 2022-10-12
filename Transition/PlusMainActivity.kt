@@ -1,4 +1,4 @@
-package com.example.animation
+package com.example.transition
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
