@@ -1,4 +1,4 @@
-package com.example.week4_prac
+package com.example.transition
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
