@@ -6,7 +6,7 @@ import android.widget.EditText
 import android.widget.RadioGroup
 import androidx.lifecycle.ViewModelProvider
 import androidx.transition.*
-import com.example.week4_prac.databinding.ActivityMainBinding
+import com.example.transition.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
