@@ -5,7 +5,7 @@ import android.os.Bundle
 import androidx.transition.Fade
 import androidx.transition.Scene
 import androidx.transition.TransitionManager
-import com.example.animation.databinding.ActivityMainBinding
+import com.example.transition.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
